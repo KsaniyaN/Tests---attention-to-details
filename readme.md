@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 Xenia Novosilska - Front-End technical task
 
 No installation required. Can be viewed and assessed in browser.
